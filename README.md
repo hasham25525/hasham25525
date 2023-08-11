@@ -15,7 +15,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-hasham-06287822b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-hasham-06287822b" height="30" width="40" /></a>
 <a href="https://fb.com/cartist.h" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cartist.h" height="30" width="40" /></a>
-<a href="https://instagram.com/shotsby_hasham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shotsby_hasham" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
