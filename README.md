@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Muhammad Hasham</h1>
 <h3 align="center">A passionate, dedicated and performance-driven web developer. Well-versed in programming concepts and writing code with good debugging skills & UI design.</h3>
 
-- 🔭 I’m currently working on **ReactJs**
+- 🔭 I’m currently working on **NextJs**
 
 - 🌱 I’m currently learning **MERN Stack**
 
 - 👯 I’m looking to collaborate on **Web & Mobile apps**
 
-- 💬 Ask me about **React, Js**
+- 💬 Ask me about **React, Next, Js**
 
 - 📫 How to reach me **hasham25525@gmail.com**
 
