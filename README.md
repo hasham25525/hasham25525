@@ -3,9 +3,9 @@
  
 - 🔭 I’m currently working on **NextJs**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **.Net Web API**
 
-- 👯 I’m looking to collaborate on **Web & Mobile apps**
+- 👯 I’m looking to collaborate on **Enterprise Web Applications**
 
 - 💬 Ask me about **React, Next, Js**
 
